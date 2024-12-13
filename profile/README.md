@@ -1,12 +1,37 @@
-## Hi there 👋
+# 👋 Welcome to Media Aid!
 
-<!--
+🎯 **What We Do**  
 
-**Here are some ideas to get you started:**
+私たちは、最新技術を駆使してイノベーションを生み出すエンジニアチームです！  
+日々の開発で活用しているツールや技術スタックはこちら👇  
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+🛠️ **Tech Stack**  
+
+  - 🚀 Kubernetes (Google Cloud Platform)
+  - 📜 Golang & Connect-Go
+  - 📱 Flutter  
+  - 🖌️ Figma
+  - 🌐 Vue.js & Nuxt.js
+  - 📊 Atlas
+  - 🛡️ Sentry
+
+📣 **Communication Tools**  
+
+  - 📝 Jira  
+  - 💬 Slack  
+  - 🧩 Miro  
+
+🌈 **Why Join Us?**  
+
+- チームでアイデアを形にし、⛰️ 挑戦を楽しむ文化  
+- 常に新しいツールや技術に💡好奇心旺盛  
+- オープンでフラットなコミュニケーションを大切にしています✨  
+
+🎉 **We’re Hiring!**  
+
+エンジニアを大募集しています！  
+情熱を持ち、成長を楽しめる方なら、経験やバックグラウンドは問いません！一緒に面白いものを作りませんか？🌟  
+
+📩 **Contact Us**  
+
+興味のある方はお気軽にDMしてください📬  
