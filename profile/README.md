@@ -19,7 +19,8 @@
 
   - 📝 Jira  
   - 💬 Slack  
-  - 🧩 Miro  
+  - 🧩 Miro
+  - ✏️ Notion
 
 🌈 **Why Join Us?**  
 
